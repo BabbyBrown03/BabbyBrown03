@@ -24,10 +24,6 @@ A passionate developer and designer who loves turning lines of code into beautif
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BabbyBrown03&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=BabbyBrown03&theme=radical&hide_border=false" alt="GitHub Streak" width="97%" />
-</p>
-
 ---
 
 ## 🌐 Connect with Me
@@ -42,9 +38,3 @@ A passionate developer and designer who loves turning lines of code into beautif
 </p>
 
 <br />
-
-<p align="right">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=BabbyBrown03&icon=0&color=0" alt="Visitor Count" />
-  </a>
-</p>
